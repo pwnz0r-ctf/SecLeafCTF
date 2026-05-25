@@ -1,7 +1,7 @@
 # 💀 SecLeafCTF Writeups
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00FFAA&center=true&vCenter=true&width=900&lines=SecLeafCTF+Writeups;Capture+The+Flag+Journey;Cybersecurity+Learning+Repo;Made+by+Bharat+Sharma" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00FFAA&center=true&vCenter=true&width=900&lines=SecLeafCTF+Writeups;Cybersecurity+Learning+Journey;CTF+Challenges+Solved;Built+by+Bharat+Sharma" />
 </p>
 
 <p align="center">
@@ -12,18 +12,18 @@
 
 ## ⚡ Overview
 
-This repository contains my **CTF (Capture The Flag) writeups** from various cybersecurity categories.
+This repository contains my **Capture The Flag (CTF) writeups** across multiple cybersecurity domains.
 
-Each challenge includes:
+Each writeup includes:
 - 🧠 Step-by-step solving approach  
-- 🔍 Analysis of attack/technique used  
+- 🔍 Technical analysis of vulnerabilities  
 - 🛠 Tools & commands used  
 - 🐍 Python scripts (if required)  
-- 🎯 Final flag format: `SecLeaf{...}`  
+- 🎯 Flag format: `SecLeaf{...}`  
 
 ---
 
-## 📂 Categories
+## 📂 Challenge Categories
 
 ### 🧠 Crypto
 - Double Trouble  
@@ -65,6 +65,22 @@ Each challenge includes:
 - Burp Suite 🌐  
 - Ghidra / IDA 💣  
 - Autopsy 🧊  
+
+---
+
+## 🔗 Connect With Us
+
+<p align="center">
+  <a href="https://ctftime.org/team/422926">
+    <img src="https://img.shields.io/badge/CTFtime-Team%20Profile-00ffcc?style=for-the-badge&logo=hackthebox" />
+  </a>
+  <a href="https://www.linkedin.com/company/pwnz0r/posts/?feedView=all">
+    <img src="https://img.shields.io/badge/LinkedIn-Pwnz0r-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+- 🌐 CTFtime: https://ctftime.org/team/422926  
+- 💼 LinkedIn: https://www.linkedin.com/company/pwnz0r/posts/?feedView=all  
 
 ---
 
