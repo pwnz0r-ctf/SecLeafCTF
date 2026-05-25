@@ -80,7 +80,7 @@ Each writeup includes:
 </p>
 
 - 🌐 CTFtime: https://ctftime.org/team/422926  
-- 💼 LinkedIn: https://www.linkedin.com/company/pwnz0r/posts/?feedView=all  
+- 💼 LinkedIn: https://www.linkedin.com/company/pwnz0r
 
 ---
 
