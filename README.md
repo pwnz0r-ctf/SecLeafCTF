@@ -1,7 +1,7 @@
 # 💀 SecLeafCTF Writeups
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00FFAA&center=true&vCenter=true&width=900&lines=SecLeafCTF+Writeups;Cybersecurity+Learning+Journey;CTF+Challenges+Solved;Built+by+Bharat+Sharma" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00FFAA&center=true&vCenter=true&width=900&lines=SecLeafCTF+Writeups;Cybersecurity+Learning+Journey;CTF+Challenges+Solved;Built+by+Dozikim" />
 </p>
 
 <p align="center">
